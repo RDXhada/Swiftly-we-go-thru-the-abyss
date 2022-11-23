@@ -1,4 +1,4 @@
-//first swift program
+//first swift program - some theory
 
 //semicolons are not required, but if you write multiple actions in one line of code, swift will require you to use a semicolon, otherwise you get syntax error
 var myString = "Hello swift!" ; print(myString)
